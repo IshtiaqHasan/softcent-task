@@ -1,6 +1,7 @@
 import React from 'react';
 import Customers from '../Customres/Customers';
 import Heading from '../Heading/Heading';
+import Products from '../Products/Products';
 import Works from '../Works/Works';
 import './Home.css';
 
@@ -10,6 +11,7 @@ const Home = () => {
             <Heading></Heading>
             <Customers></Customers>
             <Works></Works>
+            <Products></Products>
         </div>
     );
 };

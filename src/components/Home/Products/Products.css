@@ -1,0 +1,129 @@
+.products {
+    height: 100%;
+    width: 100%;
+}
+
+.products h1 {
+    font-family: Overlock;
+    font-style: Bold;
+    font-size: 36px;
+    padding-top: 164px;
+    padding-left: 135px;
+}
+
+.products-underline {
+    background-image: url(../../../images/underline.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position-y: 50px;
+    background-position-x: 20px;
+    padding: 18px;
+}
+
+.products-info {
+    display: flex;
+    align-items: center;
+}
+
+.products-para {
+    padding-left: 148px;
+    font-family: Nunito;
+    font-weight: 500;
+    font-style: Regular;
+    font-size: 18px;
+    color: rgba(4, 4, 21, 0.6);
+}
+
+.products-butn {
+    background-color: rgba(45, 91, 255, 1);
+    color: #FFFFFF;
+    font-family: Inter;
+    font-style: Regular;
+    font-size: 18px;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+    border-radius: 8px;
+    margin-left: 350px;
+}
+
+.swipe {
+    display: flex;
+    align-items: center;
+}
+
+.swipeHeading {
+    padding-top: 180px;
+    padding-left: 215px;
+    font-size: 36px;
+}
+
+.swipePara {
+    padding-left: 215px;
+}
+
+.swipe-btn {
+    margin-left: 215px;
+    border: none;
+    background-color: rgba(48, 136, 255, 0.12);
+    font-family: Inter;
+    font-style: Regular;
+    font-size: 18px;
+    padding: 15px 35px;
+    border-radius: 8px;
+}
+
+.swipe-info {}
+
+.swipe-images {
+    background-color: rgba(206, 222, 244, 1);
+    width: 600px;
+    height: 500px;
+    background-image: url(../../../images/phone1.png), url(../../../images/phone2.png);
+    background-size: 410px, 290px;
+    background-repeat: no-repeat;
+    background-position-y: 20px, 40px;
+    background-position-x: 20px, 230px;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.cashback {
+    display: flex;
+    align-items: center;
+}
+
+.cashback-images {
+    background-color: rgba(206, 222, 244, 1);
+    width: 600px;
+    height: 500px;
+    background-image: url(../../../images/phone3.png), url(../../../images/phone4.png);
+    background-size: 410px, 290px;
+    background-repeat: no-repeat;
+    background-position-y: 20px, 40px;
+    background-position-x: 20px, 230px;
+    margin-left: 50px;
+}
+
+.cashbackHeading {
+    padding-left: 52px;
+    font-size: 36px;
+}
+
+.cashbackPara {
+    padding-left: 52px;
+}
+
+.cashback-btn {
+    margin-right: 215px;
+    border: none;
+    background-color: rgba(48, 136, 255, 0.12);
+    font-family: Inter;
+    font-style: Regular;
+    font-size: 18px;
+    padding: 15px 35px;
+    border-radius: 8px;
+    margin-left: 52px;
+}

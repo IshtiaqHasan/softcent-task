@@ -5,7 +5,7 @@ import Home from './components/Home/Home/Home';
 
 function App() {
   return (
-    <div >
+    <div className='sizing' >
       <Header></Header>
       <Home></Home>
     </div>

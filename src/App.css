@@ -2,6 +2,11 @@
   background-color: #F5F5F5;
 }
 
+.sizing {
+  padding: 0;
+  height: 100vh;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
