@@ -1,10 +1,14 @@
+.works {
+    padding-right: 50px;
+}
+
 .works h1 {
     font-family: Overlock;
     font-style: Bold;
     font-size: 36px;
     padding-top: 164px;
-    padding-bottom: 77px;
-    padding-left: 150px;
+    padding-bottom: 71px;
+    padding-left: 135px;
 }
 
 .works-underline {
@@ -15,4 +19,56 @@
     background-position-x: 20px;
     padding: 18px;
 
+}
+
+.work-container {
+    display: flex;
+    padding-left: 155px;
+}
+
+.branding {
+    display: flex;
+    align-items: center;
+}
+
+.branding-works {
+    padding-top: 42px;
+    font-family: Nunito;
+    font-style: SemiBold;
+    font-size: 22px;
+}
+
+.ui-ux {
+    display: flex;
+    align-items: center;
+    padding-left: 221px;
+}
+
+.ui-ux-works {
+    padding-top: 42px;
+    font-family: Nunito;
+    font-style: SemiBold;
+    font-size: 22px;
+    padding-left: 221px;
+}
+
+.development {
+    display: flex;
+    align-items: center;
+    padding-left: 210px;
+}
+
+.development-works {
+    padding-top: 42px;
+    font-family: Nunito;
+    font-style: SemiBold;
+    font-size: 22px;
+    padding-left: 221px;
+}
+
+.work-container h5 {
+    padding-left: 15px;
+    font-family: Overlock;
+    font-weight: 700px;
+    font-size: 28px;
 }
