@@ -1,0 +1,32 @@
+.heading {
+    color: rgba(4, 4, 21, 1);
+    font-family: Overlock;
+    font-style: Bold;
+    font-size: 64px;
+    padding-left: 150px;
+    padding-top: 86px;
+    /* background: linear-gradient(rgba(48, 136, 255, 0.22), #F5F5F5);
+    width: 50%;
+    border-radius: 100%; */
+}
+
+.background {
+    background-image: url('../../../images/underline.png');
+    background-repeat: no-repeat;
+    background-position-y: 50px;
+}
+
+.heading-message {
+    padding-left: 150px;
+    font-family: Nunito;
+    font-style: Regular;
+    font-size: 18px;
+    color: rgba(4, 4, 21, 0.6);
+}
+
+.heading-img {
+    padding-left: 137px;
+    padding-right: 110px;
+    padding-top: 67px;
+    border-radius: 20px;
+}
