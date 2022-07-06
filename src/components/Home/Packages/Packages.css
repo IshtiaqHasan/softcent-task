@@ -1,0 +1,22 @@
+.packages h1 {
+    font-family: Overlock;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    padding-top: 164px;
+    text-align: center;
+}
+
+.packages-underline {
+    background-image: url(../../../images/underline.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 150px;
+    padding: 18px;
+}
+
+.packages-para {
+    padding-top: 15px;
+    text-align: center;
+}

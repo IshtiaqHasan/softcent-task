@@ -4,7 +4,8 @@
 
 .works h1 {
     font-family: Overlock;
-    font-style: Bold;
+    font-style: normal;
+    font-weight: 700;
     font-size: 36px;
     padding-top: 164px;
     padding-bottom: 71px;
