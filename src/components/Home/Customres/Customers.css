@@ -1,0 +1,27 @@
+.customers {
+    font-family: Overlock;
+    font-style: Bold;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 126px;
+    padding-bottom: 77px;
+}
+
+.underline {
+    background-image: url(../../../images/underline.png);
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    padding: 25px;
+    padding-left: 5px;
+}
+
+.customers-images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.customers-images img {
+    padding-left: 65px;
+}

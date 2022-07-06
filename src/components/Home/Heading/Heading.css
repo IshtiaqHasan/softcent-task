@@ -1,9 +1,9 @@
 .heading {
     color: rgba(4, 4, 21, 1);
     font-family: Overlock;
-    font-style: Bold;
-    font-size: 64px;
+    font-size: 65px;
     padding-left: 150px;
+    line-height: 70px;
     padding-top: 86px;
     /* background: linear-gradient(rgba(48, 136, 255, 0.22), #F5F5F5);
     width: 50%;
@@ -13,7 +13,9 @@
 .background {
     background-image: url('../../../images/underline.png');
     background-repeat: no-repeat;
-    background-position-y: 50px;
+    background-position-y: -3px;
+    background-size: initial;
+    padding: 3px;
 }
 
 .heading-message {
@@ -29,4 +31,29 @@
     padding-right: 110px;
     padding-top: 67px;
     border-radius: 20px;
+    position: relative;
+}
+
+.ellipse3 {
+    position: absolute;
+    position: absolute;
+    top: 140%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.ellipse4 {
+    position: absolute;
+    position: absolute;
+    top: 140%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.polygon1 {
+    position: absolute;
+    position: absolute;
+    top: 140%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }

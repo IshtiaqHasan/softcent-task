@@ -1,0 +1,18 @@
+.works h1 {
+    font-family: Overlock;
+    font-style: Bold;
+    font-size: 36px;
+    padding-top: 164px;
+    padding-bottom: 77px;
+    padding-left: 150px;
+}
+
+.works-underline {
+    background-image: url(../../../images/underline.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position-y: 50px;
+    background-position-x: 20px;
+    padding: 18px;
+
+}
