@@ -1,0 +1,64 @@
+.devTech-section {
+    padding-left: 155px;
+    padding-right: 204px;
+}
+
+.devTch-heading h1 {
+    font-family: Overlock;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    padding-top: 150px;
+    text-align: center;
+}
+
+.dev-underline {
+    background-image: url(../../../images/underline.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position-y: 55px;
+    background-position-x: 90px;
+    padding: 18px;
+}
+
+.devTech-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.devTech-name p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+
+}
+
+.prog-underline {
+    background-image: url(../../../images/Rectangle18.png),
+        url(../../../images/Rectangle17.png);
+    background-size: 150px, 300px;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 10px;
+    padding: 18px;
+}
+
+.underline {
+    background-image: url(../../../images/Rectangle17.png);
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 10px;
+    padding: 18px;
+    background-size: cover;
+}
+
+.devTch-images {
+    padding-top: 92px;
+}
+
+.devTch-images img {
+    padding-left: 100px;
+}

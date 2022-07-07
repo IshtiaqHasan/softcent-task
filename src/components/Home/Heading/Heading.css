@@ -5,17 +5,14 @@
     padding-left: 150px;
     line-height: 70px;
     padding-top: 86px;
-    /* background: linear-gradient(rgba(48, 136, 255, 0.22), #F5F5F5);
-    width: 50%;
-    border-radius: 100%; */
+
 }
 
 .background {
     background-image: url('../../../images/underline.png');
     background-repeat: no-repeat;
-    background-position-y: -3px;
+    background-position-y: -1px;
     background-size: initial;
-    padding: 3px;
 }
 
 .heading-message {

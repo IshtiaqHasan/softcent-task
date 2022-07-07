@@ -1,0 +1,30 @@
+.design-section {
+    padding-left: 151px;
+    padding-right: 146px;
+}
+
+.design-heading h1 {
+    font-family: Overlock;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    padding-top: 118px;
+    text-align: center;
+}
+
+.design-underline {
+    background-image: url(../../../images/underline.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position-y: 55px;
+    background-position-x: 90px;
+    padding: 18px;
+}
+
+.design-images {
+    padding-top: 92px;
+}
+
+.design-images img {
+    padding-left: 110px;
+}

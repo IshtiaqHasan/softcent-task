@@ -1,6 +1,8 @@
 import React from 'react';
 import About from '../About/About';
 import Customers from '../Customres/Customers';
+import DesignTech from '../DesignTech/DesignTech';
+import DevTech from '../DevTech/DevTech';
 import Heading from '../Heading/Heading';
 import Packages from '../Packages/Packages';
 import Portfolio from '../Portfolio/Portfolio';
@@ -18,6 +20,8 @@ const Home = () => {
             <Packages></Packages>
             <About></About>
             <Portfolio></Portfolio>
+            <DevTech></DevTech>
+            <DesignTech></DesignTech>
         </div>
     );
 };
