@@ -7,6 +7,7 @@ import Heading from '../Heading/Heading';
 import Packages from '../Packages/Packages';
 import Portfolio from '../Portfolio/Portfolio';
 import Products from '../Products/Products';
+import Workflow from '../Workflow/Workflow';
 import Works from '../Works/Works';
 import './Home.css';
 
@@ -22,6 +23,7 @@ const Home = () => {
             <Portfolio></Portfolio>
             <DevTech></DevTech>
             <DesignTech></DesignTech>
+            <Workflow></Workflow>
         </div>
     );
 };
