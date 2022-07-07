@@ -3,6 +3,7 @@ import About from '../About/About';
 import Customers from '../Customres/Customers';
 import Heading from '../Heading/Heading';
 import Packages from '../Packages/Packages';
+import Portfolio from '../Portfolio/Portfolio';
 import Products from '../Products/Products';
 import Works from '../Works/Works';
 import './Home.css';
@@ -16,6 +17,7 @@ const Home = () => {
             <Products></Products>
             <Packages></Packages>
             <About></About>
+            <Portfolio></Portfolio>
         </div>
     );
 };

@@ -28,8 +28,8 @@
 .about-para {
     background-image: url(../../../images/quote1.png), url(../../../images/quote2.png);
     background-repeat: no-repeat;
-    background-position-x: 130px, 460px;
-    background-position-y: 15px, 115px;
+    background-position-x: 130px, 455px;
+    background-position-y: 20px, 155px;
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 500;
@@ -37,6 +37,7 @@
     padding-left: 200px;
     padding-top: 50px;
     padding-bottom: 50px;
+    line-height: 34px;
 }
 
 .co-founder {
@@ -61,4 +62,23 @@
     font-weight: 600;
     font-size: 16px;
     padding-left: 10px;
+}
+
+.dot-images {
+    padding-top: 30px;
+    padding-left: 200px;
+}
+
+.dot-images img {
+    padding: 5px;
+}
+
+.co-founder-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ellipse6 img {
+    padding-right: 150px;
 }

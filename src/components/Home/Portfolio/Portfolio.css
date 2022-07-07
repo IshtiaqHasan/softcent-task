@@ -1,0 +1,102 @@
+.portfolio {
+    padding-top: 140px;
+    padding-left: 155px;
+    padding-right: 141px;
+}
+
+.portfolio h1 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.portfolio-underline {
+    background-image: url(../../../images/underline.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 30px;
+    padding: 18px;
+
+}
+
+.arrow1 {
+    position: relative;
+}
+
+.arrow2 {
+    position: relative;
+}
+
+.ellipse7 {
+    position: absolute;
+    top: 140%;
+    bottom: 0%;
+    left: 92%;
+    transform: translate(-50%, -50%);
+    margin-top: 20px;
+}
+
+.vector1 {
+    position: absolute;
+    top: 200%;
+    left: 92%;
+    transform: translate(-50%, -50%);
+    margin-top: 20px;
+}
+
+.ellipse8 {
+    position: absolute;
+    top: 140%;
+    bottom: 0%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    margin-top: 30px;
+}
+
+.vector2 {
+    position: absolute;
+    top: 200%;
+    left: 100%;
+    transform: translate(-90%, -130%);
+    margin-top: 30px;
+}
+
+.portfolio-images {
+    padding-top: 48px;
+    display: flex;
+    align-items: center;
+}
+
+.portfolio-images img {
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.portfolio-images p {
+    padding-left: 69px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+}
+
+.portfolio-btn {
+    background-color: rgba(45, 91, 255, 1);
+    width: 201.04px;
+    height: 52px;
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    border: none;
+    border-radius: 7px;
+
+}
+
+.btn-section {
+    text-align: center;
+    padding-top: 80px;
+}
