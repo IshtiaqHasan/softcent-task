@@ -1,0 +1,60 @@
+.soft-partner {
+    margin-top: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #2D5BFF;
+    width: 1010px;
+    height: 160px;
+    margin-left: 151px;
+    border-radius: 12px;
+}
+
+.soft-partner-heading h3 {
+    padding-right: 150px;
+    color: white;
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.soft-partner-btn {
+    width: 197.86px;
+    height: 60.52px;
+    background: #FFFFFF;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #2D5BFF;
+    border: none;
+    border-radius: 7px;
+}
+
+.about-softcent {
+    padding-top: 72px;
+    padding-left: 155px;
+}
+
+.softAddress p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.softAddress h4 {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.social-images {
+    padding-left: 140px;
+}
+
+.social-images img {
+    padding: 5px;
+}
