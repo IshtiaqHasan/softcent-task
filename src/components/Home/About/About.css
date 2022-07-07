@@ -1,0 +1,64 @@
+.about-container h1 {
+    font-family: Overlock;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    padding-top: 164px;
+    text-align: center;
+}
+
+.about-underline {
+    background-image: url(../../../images/underline.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 40px;
+    padding: 18px;
+}
+
+.quote-section {
+    padding-top: 50px;
+}
+
+.quote1-img {
+    margin-left: 140px;
+    margin-top: 100px;
+}
+
+.about-para {
+    background-image: url(../../../images/quote1.png), url(../../../images/quote2.png);
+    background-repeat: no-repeat;
+    background-position-x: 130px, 460px;
+    background-position-y: 15px, 115px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.co-founder {
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+}
+
+.co-founder-name {
+    margin: 10px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.co-founder-desig {
+    margin: 10px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    padding-left: 10px;
+}
