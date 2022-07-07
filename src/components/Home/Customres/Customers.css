@@ -1,3 +1,8 @@
+.customers-container {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
 .customers {
     font-family: Overlock;
     font-style: Bold;

@@ -8,7 +8,7 @@ import app from '../../../images/app.png';
 
 const Customers = () => {
     return (
-        <div>
+        <div className='customers-container'>
             <h1 className='customers'><span className='underline'>Our Customers</span></h1>
             <div className='customers-images'>
                 <img src={ubs} width='240px' height='86px' alt="" />

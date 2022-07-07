@@ -20,3 +20,124 @@
     padding-top: 15px;
     text-align: center;
 }
+
+.package-btn {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.monthly-btn {
+    font-family: Nunito;
+    font-style: Regular;
+    font-size: 18px;
+    background-color: rgba(48, 136, 255, 0.16);
+    width: 135px;
+    height: 48px;
+    border: none;
+    border-radius: 7px;
+
+}
+
+.yearly-btn {
+    font-family: Nunito;
+
+    font-style: Regular;
+    font-size: 18px;
+    background-color: rgba(45, 91, 255, 1);
+    width: 135px;
+    height: 48px;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    margin-left: 20px;
+}
+
+.packages-container {
+    display: flex;
+    align-items: center;
+    padding-left: 152px;
+    padding-right: 151px;
+    padding-top: 80px;
+}
+
+.packages-container h3 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.packages-container h5 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+.marketing-container {
+    width: 349.09px;
+    height: 550px;
+    background-color: rgba(48, 136, 255, 0.05);
+    border-radius: 12px;
+    padding: 16px;
+}
+
+.marketing-underline {
+    background-image: url(../../../images/line.png);
+    background-repeat: no-repeat;
+    background-position-y: 25px;
+    background-size: cover;
+}
+
+.marketing-packages {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.marketing-btn {
+    background-color: rgba(246, 160, 14, 1);
+    color: white;
+    width: 273.22px;
+    height: 46px;
+    margin-left: 15px;
+    border: none;
+    border-radius: 12px;
+    margin-top: 30px;
+    margin-bottom: 27px;
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.ui-container {
+    width: 349.09px;
+    height: 550px;
+    background-color: rgba(45, 91, 255, 1);
+    border-radius: 12px;
+    padding: 16px;
+    margin-left: 45px;
+}
+
+.ui-packages {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.development-container {
+    width: 349.09px;
+    height: 550px;
+    background-color: rgba(48, 136, 255, 0.05);
+    border-radius: 12px;
+    padding: 16px;
+    margin-left: 45px;
+}
+
+.development-packages {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
