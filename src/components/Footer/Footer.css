@@ -1,5 +1,5 @@
 .soft-partner {
-    margin-top: 250px;
+    margin-top: 200px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -35,6 +35,8 @@
 .about-softcent {
     padding-top: 72px;
     padding-left: 155px;
+    display: flex;
+    align-items: center;
 }
 
 .softAddress p {
@@ -51,10 +53,53 @@
     font-size: 16px;
 }
 
-.social-images {
-    padding-left: 140px;
-}
+.social-images {}
 
 .social-images img {
     padding: 5px;
+}
+
+.policy {
+    display: flex;
+    padding-left: 150px;
+}
+
+.policy h5 {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.policy p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.company {}
+
+.service {
+    padding-left: 108px;
+}
+
+.supports {
+    padding-left: 108px;
+}
+
+.line {
+    width: 1138.93px;
+    color: rgba(4, 4, 21, 0.16);
+    margin-top: 80px;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.allFooter {
+    background-color: rgba(246, 160, 14, 0.05);
+    ;
+    height: 700px;
 }
