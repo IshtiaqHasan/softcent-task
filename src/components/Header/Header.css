@@ -5,7 +5,7 @@
     justify-content: space-between;
     padding-left: 150px;
     padding-right: 150px;
-
+    background-image: linear-gradient(white, rgba(48, 138, 255, 0.010));
 }
 
 .header a {

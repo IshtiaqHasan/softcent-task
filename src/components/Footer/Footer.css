@@ -1,3 +1,9 @@
+.allFooter {
+    background-color: rgba(246, 160, 14, 0.05);
+    ;
+    height: 700px;
+}
+
 .soft-partner {
     margin-top: 200px;
     display: flex;
@@ -96,10 +102,4 @@
 
 .copyright {
     text-align: center;
-}
-
-.allFooter {
-    background-color: rgba(246, 160, 14, 0.05);
-    ;
-    height: 700px;
 }

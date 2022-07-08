@@ -9,8 +9,10 @@ import Polygon1 from '../../../images/Polygon1.png';
 const Heading = () => {
     return (
         <div>
-            <h1 className='heading'> Software services for <br /> <span className='background'>startups</span>  without <br /> limits..</h1>
-            <p className='heading-message'>We believe that great design should not be out of reach, so our services <br /> are less than half of a full-time designer.</p>
+            <div className='heading-title'>
+                <h1 className='heading'> Software services for <br /> <span className='background'>startups</span>  without <br /> limits..</h1>
+                <p className='heading-message'>We believe that great design should not be out of reach, so our services <br /> are less than half of a full-time designer.</p>
+            </div>
 
             <div>
                 <div>
